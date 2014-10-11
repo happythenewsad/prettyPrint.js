@@ -3,7 +3,10 @@ prettyPrint
 
 prettyPrint prints javascript objects in an easily readable way, useful for debugging. It uses console.log by default, but can be configured to use your own printing method. prettyPrint has no external dependencies and works out of the box.
 
-
+Usage:
+------
+    Window.prettyPrint(myObject);
+    
 Licensing
 ----------
 This software is licensed under the MIT License.
